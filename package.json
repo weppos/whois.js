@@ -1,0 +1,15 @@
+{
+  "name": "whois",
+  "version": "0.0.0",
+  "description": "An intelligent JavaScript WHOIS client.",
+  "keywords" : ["whois", "domain"],
+  "homepage" : "https://github.com/weppos/whois.js",
+  "bugs" : { "url" : "https://github.com/weppos/whois.js/issues" },
+  "author": "Simone Carletti <weppos@weppos.net> (http://www.simonecarletti.com/)",
+  "repository": "git://github.com/weppos/weppos/whois.js.git",
+  "main": "./whois",
+  "bin" : { "node-whois" : "./bin/node-whois.js" },
+  "engines": { "node": "0.6" },
+  "dependencies": {},
+  "devDependencies": {}
+}
